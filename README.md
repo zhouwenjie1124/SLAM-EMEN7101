@@ -1,1 +1,3 @@
 # SLAM-EMEN7101
+
+Here are some demo projects for course 2023-2-EMEN7101-001 INTRODUCTION TO MOBILE ROBOTICS.
